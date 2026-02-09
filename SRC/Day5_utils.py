@@ -63,24 +63,3 @@ area,perimeter = calc_rectangle (length, width)
 print(f"the area of rectangle is {perimeter}" )
 print(f"the area of rectangle is {area}")
 
-#task2
-
-import math_Operations
-
-def power(base, exp):
-    return base ** exp 
-    
-def average(numbers_list):
-    return sum(numbers_list) / len(numbers_list)
-        
-main.py
-
-import math_operations
-
-result_power = math_operations.power(2,10)
-
-number = [10,20,30,40]
-result_average = math_operations.average(number)
-
-print("2^10=",result_power)
-print("Average =",result_average)
