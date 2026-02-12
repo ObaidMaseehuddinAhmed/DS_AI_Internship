@@ -1,0 +1,7 @@
+   "CustomerID":[101,103,105,107,109],
+        "Name":["obaid",None,"Maaz","Afnan",None],
+        "Age":[22,24,None,23,20],
+        "City":["Glb","ban","hay","dil","newy"],
+        "OrderAmount": [2500, 1800, None, 2200, None],
+        "PaymentMethod": ["UPI", "Card", "Cash", "Card", None],
+        "Date": ["2024-01-05","2024-01-10","2024-02-01","2024-02-05","2024-03-01"],    
